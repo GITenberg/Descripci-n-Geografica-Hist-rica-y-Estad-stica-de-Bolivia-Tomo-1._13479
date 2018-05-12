@@ -1,0 +1,31 @@
+_repo: Descripci-n-Geografica-Hist-rica-y-Estad-stica-de-Bolivia-Tomo-1._13479
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Orbigny, Alcide Dessalines d'
+    aliases:
+    - Dessalines d'Orbigny, Alcide
+    - D'Orbigny, Alcide Dessalines
+    - Orbigny, Alcides de
+    birthdate: 1802
+    deathdate: 1857
+    gutenberg_agent_id: '5069'
+    url: http://www.gutenberg.org/2009/agents/5069
+description: ''
+gutenberg_issued: '2004-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13479'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bolivia -- Description and travel'
+- !lcc 'F3301'
+- !lcsh 'Bolivia -- History, Local'
+title: Descripción Geografica, Histórica y Estadística de Bolivia, Tomo 1.
+url: http://www.gutenberg.org/ebooks/13479
